@@ -4,9 +4,13 @@ http://www.simplecloud.info/
 
 ## User
 User object
-```{sss}```
+```json
+{"sss":"444"}
+```
 
 User Schema
-```{bbbb}```
+```
+{"bbbb":"123"}
+```
 
 ## Group
