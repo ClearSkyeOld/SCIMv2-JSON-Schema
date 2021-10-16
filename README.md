@@ -1,6 +1,6 @@
 # SCIMv2-JSON-Schema
 Data validation for Identity objects in transit
-http://www.simplecloud.info/
+
 
 ## User
 User object
@@ -8,9 +8,22 @@ User object
 {"sss":"444"}
 ```
 
-User Schema
+User ValidationSchema
 ```
 {"bbbb":"123"}
 ```
 
 ## Group
+Group object
+```json
+{"sss":"444"}
+```
+
+Group Validation Schema
+```
+{"bbbb":"123"}
+```
+
+## References / Libraries
+* JSON Validation Standard - https://github.com/json-schema-org
+* SCIM v2 Standard - http://www.simplecloud.info/
